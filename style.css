@@ -21,3 +21,24 @@ body{
     margin: 16px;
     padding: 32px;
 }
+
+.person {
+
+}
+
+.person__description{
+    
+}
+
+.personn__name {
+    font-size: 36px;
+    margin: 0;
+    font-weight: normal;
+}
+
+.person__position {
+    font-size: 18px;
+    color: #545454;
+    margin: 0;
+    font-style: italic;
+}
